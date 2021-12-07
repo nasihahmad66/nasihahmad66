@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nasihahmad66
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning golag and js
+- 🌱 I’m currently learning golang and js
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me, you can mail me on <nasihahmad66.na@gmail.com>
 

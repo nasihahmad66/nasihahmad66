@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nasihahmad66
+- 👋 Hi, I’m Nasih Ahmad
 - 👀 I’m interested in fullstack
 - 🌱 I’m currently learning golang and js
 - 💞️ I’m looking to collaborate on web development
